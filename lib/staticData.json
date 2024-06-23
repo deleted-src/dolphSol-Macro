@@ -287,20 +287,11 @@
             "cornerColor": 3355443
         },
         "16744319": {
-            "name": "STARSCOURGE",
+            "name": "STARSCOURGE or STARSCOURGE : RADIANT (1/10)",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/a/a4/StarscourgeAura.gif",
             "rarity": 10000000,
             "biome": {"name": "Starfall", "factor":10},
             "cornerColor": 3354929
-            "mutations": [
-                {
-                    "name": "STARSCOURGE : RADIANT",
-                    "image": "https://static.wikia.nocookie.net/sol-rng/images/1/16/Starscourge_Radiant_Gif2.gif",
-                    "rarity": 100000000,
-                    "biome": {"name": "Starfall", "factor":10},
-                    "cornerColor": 9998737
-                }
-            ]
         },
         "8562687": {
             "name": "Sailor",
@@ -331,6 +322,11 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/4/43/RobloxPlayerBeta_Ie55pSxe44.gif",
             "rarity": 50000000,
             "cornerColor": 3184771
-        }
+        },
+        "15188892": {
+            "name": "Archangel"
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/b/bb/Archangel_GIF.gif",
+            "rarity": 250000000,
+            "cornerColor": 15783882
     }
 }]
